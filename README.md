@@ -40,7 +40,7 @@ git clone https://github.com/denis-mutuma/proportional-robot-controller.git
 
 ![turtlesim1](./images/turtle1.png)
 
-3. In a new terminal run `rosrun practical goto_xy` to run the proportional robot contoller and you'll be prompted to provide the x and y cordinates via the terminal. You should see the turtle turning (if need be) and moving to the desired location with an output similar to this:
+3. In a new terminal run `rosrun practical goto_xy` to run the proportional robot contoller and you'll be prompted to provide the x and y cordinates via the terminal. Enter values for x and why between 0 and 11. You should see the turtle turning (if need be) and moving to the desired location with an output similar to this:
 
 ![output](./images/output.png)
 
